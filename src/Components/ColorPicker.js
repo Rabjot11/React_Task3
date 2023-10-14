@@ -2,6 +2,7 @@ import React, { useState } from 'react';
 import './ColorPicker.css'
 
 
+
 function ColorPicker({ colors, onColorSelect }) {
   const [isOpen, setIsOpen] = useState(false);
 
