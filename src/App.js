@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import ColorPicker from './Components/ColorPicker';
 import './App.css'
-
+ 
 function App() {
   const colors = [
     '#FF0000',
